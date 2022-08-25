@@ -1,0 +1,320 @@
+@charset "UTF-8";
+body {
+  /* nav-bar */
+  /* section 1 */
+  /* mentions légales */
+}
+
+body header {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  background-color: #184C99;
+  width: 100%;
+}
+
+body header nav {
+  padding-bottom: 120px;
+}
+
+body header nav a {
+  color: #fff;
+}
+
+body header nav .nav-link {
+  color: #fff;
+}
+
+body header nav .btn {
+  background-color: #23A6F0;
+  padding: 15px 25px;
+}
+
+body #carre_bleu {
+  height: 790px;
+  width: 100%;
+  position: absolute;
+}
+
+body .section1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: #fff;
+  /* les 3 cards de la section 1 */
+  /* les 2 meufs */
+  /* carousel 3 items */
+  /* cards */
+  /* text et champs submit */
+  /* footer */
+}
+
+body .section1 h5 {
+  color: #23A6F0;
+  font-size: 16px;
+}
+
+body .section1 h1 {
+  font-size: 58px;
+}
+
+body .section1 h4 {
+  font-size: 30px;
+}
+
+body .section1 .cta {
+  width: 305px;
+  height: 56px;
+  padding-top: 5%;
+}
+
+body .section1 .cta .btn {
+  background-color: #23A6F0;
+  width: 133px;
+  height: 52px;
+}
+
+body .section1 .cta .btn2 {
+  background-color: #184C99;
+  border: 1px solid #26A6F0;
+  border-radius: 5px;
+  width: 162px;
+  height: 52px;
+  color: #23A6F0;
+}
+
+body .section1 .part_G {
+  width: 599px;
+}
+
+body .section1 .part_G h5 {
+  line-height: 50px;
+  padding-bottom: 6%;
+}
+
+body .section1 .part_G h1 {
+  line-height: 80px;
+  padding-bottom: 6%;
+}
+
+body .section1 .part_G h4 {
+  line-height: 40px;
+}
+
+body .section1 .part_D {
+  width: 415px;
+  height: 280px;
+  top: 60.5px;
+  left: 415px;
+  position: relative;
+}
+
+body .section1 .part_D .img_rose {
+  position: absolute;
+  right: 560px;
+  bottom: 130px;
+}
+
+body .section1 .part_D .img_jaunepetit {
+  position: absolute;
+  right: 550px;
+  bottom: 1px;
+}
+
+body .section1 .part_D .img_jaunegrand {
+  position: absolute;
+  right: 600px;
+  top: 290px;
+}
+
+body .section1 .part_D .img_gens {
+  z-index: 1;
+  position: absolute;
+  left: 5px;
+  bottom: 10px;
+  top: 20px;
+}
+
+body .section1 .part_D .img_bleu {
+  width: 100%;
+  height: auto;
+  left: 150px;
+  top: 0px;
+}
+
+body .section1 .cards {
+  padding-top: 15%;
+}
+
+body .section1 .cards .card {
+  padding: 3%;
+  z-index: 2;
+}
+
+body .section1 .cards .card .fixed-width {
+  width: 50px;
+  height: 2px;
+  background-color: #E74040;
+}
+
+body .section1 .cards .card .card-img-top {
+  width: 70px;
+  height: 76px;
+}
+
+body .section1 .cards .card .card-title {
+  color: #252B42;
+}
+
+body .section1 .cards .card .card-text {
+  color: #737373;
+  margin-top: 20px;
+}
+
+body .section1 .cards .card h3 {
+  font-size: 16px;
+  height: 30px;
+}
+
+body .section1 .section2 {
+  padding: 160px 0px;
+}
+
+body .section1 .section2 .partGs2 {
+  padding-top: 12%;
+}
+
+body .section1 .section2 .partGs2 .fixed-width2 {
+  width: 100px;
+  height: 10px;
+  background-color: #E74040;
+}
+
+body .section1 .section2 .partGs2 h2 {
+  line-height: 50px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+body .section1 .section2 .partGs2 p {
+  line-height: 20px;
+  font-size: 14px;
+}
+
+body .section1 .section2 .partGs2 a {
+  color: #23A6F0;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+body .section1 .section2 .imgJaune {
+  bottom: 45%;
+}
+
+body .section1 main h6 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #23A6F0;
+  line-height: 24px;
+}
+
+body .section1 main h2 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+body .section1 main p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+body .section1 .section4 {
+  padding: 120px 0px;
+}
+
+body .section1 .section4 h6 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #23A6F0;
+}
+
+body .section1 .section4 h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+body .section1 .section4 p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+body .section1 .section4 .cards3 {
+  padding: 100px 0px;
+}
+
+body .section1 .section5 {
+  padding: 120px 0px;
+}
+
+body .section1 .section5 h6 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #23A6F0;
+}
+
+body .section1 .section5 h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+body .section1 .section5 p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+body .section1 .section5 .form-control {
+  font-size: 14px;
+  color: #737373;
+}
+
+body .section1 .section5 span {
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid #E6E6E6;
+  color: #fff;
+  background-color: #23A6F0;
+  border-radius: 0px 5px 5px 0px;
+}
+
+body .section1 footer h3 {
+  font-size: 24px;
+}
+
+body .section1 footer p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+body .section1 footer .icons {
+  color: #26A6F0;
+  font-size: 35px;
+}
+
+body .section1 footer a {
+  text-decoration: none;
+  line-height: 40px;
+  color: #fff;
+  font-size: 14px;
+}
+
+body .foo {
+  color: #737373;
+  background-color: #fafafa;
+  font-size: 14px;
+  font-weight: 700;
+}
+/*# sourceMappingURL=stylesheet.css.map */

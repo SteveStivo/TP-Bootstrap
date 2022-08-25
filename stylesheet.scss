@@ -1,0 +1,288 @@
+body{
+    /* nav-bar */
+    header{
+        font-family: 'Montserrat';
+        font-weight: 700;
+        background-color: #184C99;
+        width: 100%;
+
+        nav{
+            padding-bottom: 120px;
+        
+            a{
+                color: #fff;
+            }
+            .nav-link{
+                color: #fff;
+            }
+            .btn{
+                background-color: #23A6F0;
+                padding: 15px 25px;
+
+            }
+        }
+    }
+    #carre_bleu{
+        height: 790px;
+        width: 100%;
+        
+        position: absolute;
+
+    }
+    /* section 1 */
+    .section1{
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: #fff;
+        h5{
+            color: #23A6F0;
+            font-size: 16px;
+        }
+        h1{
+            font-size: 58px;
+        }
+        h4{
+            font-size: 30px;
+        }
+        .cta{
+            width: 305px;
+            height: 56px;
+            padding-top: 5%;
+            .btn{
+                background-color: #23A6F0;
+                width: 133px;
+                height: 52px;
+            }
+            .btn2{
+                background-color: #184C99;
+                border: 1px solid #26A6F0;
+                border-radius: 5px;
+                width: 162px;
+                height: 52px;
+                color: #23A6F0;
+
+            }
+        }
+        .part_G{
+            width: 599px;
+            h5{
+                line-height: 50px;
+                padding-bottom: 6%;
+            }
+            h1{
+                line-height: 80px;
+                padding-bottom: 6%;
+            }
+            h4{
+                line-height: 40px;
+            }
+        }
+        .part_D{
+            width: 415px;
+            height: 280px;
+            top: 60.5px;
+            left: 415px;
+            position: relative;
+            .img_rose{
+                position: absolute;
+                right: 560px;
+                bottom: 130px;
+                
+            }
+            .img_jaunepetit{
+                position: absolute;
+                right: 550px;
+                bottom: 1px;
+                
+            }
+            .img_jaunegrand{
+                position: absolute;
+                right: 600px;
+                top: 290px;
+            }
+            .img_gens{
+                z-index: 1;
+                position: absolute;
+                left: 5px;
+                bottom: 10px;
+                top: 20px;
+            }
+            .img_bleu{
+                width: 100%;
+                height: auto;
+                left: 150px;
+                top: 0px;
+            }
+        }
+        /* les 3 cards de la section 1 */
+        .cards{
+            padding-top: 15%;
+        
+            .card{
+                padding: 3%;
+                z-index: 2;
+
+                .fixed-width{
+                    width: 50px;
+                    height: 2px;
+                    background-color: #E74040;
+                }
+                .card-img-top{
+                    width: 70px;
+                    height: 76px;
+                }
+                .card-title{
+                    color: #252B42
+                }
+                .card-text{
+                    color: #737373;
+                    margin-top: 20px;
+                    
+                }
+                h3{
+                    font-size: 16px;
+                    height: 30px;
+                }
+            }
+        }
+        /* les 2 meufs */
+        .section2{
+            padding: 160px 0px;
+            
+            .partGs2{
+                padding-top: 12%;
+                
+                .fixed-width2{
+                    width: 100px;
+                    height: 10px;
+                    background-color: #E74040;
+                }
+                h2{
+                    line-height: 50px;
+                    font-size: 40px;
+                    font-weight: 700;
+                }
+                p{
+                    line-height: 20px;
+                    font-size: 14px;
+                }
+                a{
+                    color: #23A6F0;
+                    font-weight: 700;
+                    font-size: 14px;
+                }
+            }
+            .imgJaune{
+                bottom: 45%;
+            }
+            
+        }
+        /* carousel 3 items */
+            main{
+                h6{
+                    font-size: 14px;
+                    font-weight: 700;
+                    color: #23A6F0;
+                    line-height: 24px;
+                }
+                h2{
+                    font-size: 40px;
+                    font-weight: 700;
+                    line-height: 50px;
+                }
+                p{
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 20px;
+                }
+                
+            }
+        /* cards */
+        .section4{
+            padding: 120px 0px;
+            h6{
+                font-size: 14px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #23A6F0;
+            }
+            h2{
+                font-size: 40px;
+                font-weight: 700;
+            }
+            p{
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 20px;
+            }
+            .cards3{
+                padding: 100px 0px;
+            }
+        }
+        /* text et champs submit */
+        .section5{
+            padding: 120px 0px;
+            h6{
+                font-size: 14px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #23A6F0;
+            }
+            h2{
+                font-size: 40px;
+                font-weight: 700;
+            }
+            p{
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 20px;
+            }
+
+            
+                .form-control{
+
+                    font-size: 14px;
+                    color: #737373;
+                }
+                span{
+                    font-size: 14px;
+                    font-weight: 400;
+                    border: 1px solid #E6E6E6;
+                    color: #fff;
+                    background-color: #23A6F0;
+                    border-radius: 0px 5px 5px 0px;
+                }
+            
+        }
+        /* footer */
+        footer{
+            h3{
+                font-size: 24px;
+            }
+            p{
+                font-size: 14px;
+                font-weight: 400;
+            }
+            .icons{
+                color: #26A6F0;
+                font-size: 35px;
+            }
+
+            a{
+                text-decoration: none;
+                line-height: 40px;
+                color: #fff;
+                font-size: 14px;
+            }
+            
+        }
+    }
+    /* mentions légales */
+    .foo{
+        color: #737373;
+        background-color: #fafafa;
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+}
